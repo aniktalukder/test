@@ -38,7 +38,10 @@ public class MainClass {
 		
 		System.out.println("Sum = " + sum(input));
 		System.out.println("Product = " + product(input));
+		System.out.println("It is successful");
+
 		System.out.println("from branch test-anik");
+
 	}	
 	
 
